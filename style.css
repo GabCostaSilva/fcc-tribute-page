@@ -1,0 +1,44 @@
+body {
+  min-width: 260px;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+
+}
+
+#main {
+  margin: 30px auto;
+  background: #eee;
+  padding: 20px;
+  border: 0px solid;
+  border-radius: 10px; 
+}
+
+#img-div {
+  margin: 0 auto;
+  background: white;
+  width: 95%;
+}
+#image {
+  max-width: 50%;
+  padding: 10px;
+  display: block;
+  margin: 0 auto;
+}
+
+#img-caption {
+  font-family: 'Vollkorn', serif;
+}
+
+#tribute-info ul {
+  margin: 0 auto;
+  max-width: 550px;
+  text-align: left;
+  border: solid 1px;
+  border-radius: 2%;
+  padding: 30px;
+}
+
+blockquote {
+  font-style: italic;
+  
+}
